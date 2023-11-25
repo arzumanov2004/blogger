@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(239, 237, 237);
+}
+header{
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+#ThanEver{
+    width: 100%;
+    min-height: 600px;
+    background-image: url("https://preview.colorlib.com/theme/blogger/img/header-bg.jpg");
+    .Discount{
+        width: 100%;
+        min-height: 600px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .dis{
+            width: 100%;
+            min-height: 300px;
+            display: flex;
+            align-items: end;
+            h1{
+                font-size: 55px;
+                font-weight: 800;
+                color: white;
+            }
+        }
+    }
+}
+#sec-2{
+    width: 100%;
+    min-height: 800px;
+    background-color: white;
+  
+    .LatestNews{
+        width: 100%;
+        height: auto;
+        
+        .Lorem{
+            width: 100%;
+            min-height: 300px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           text-align: center;
+           h1{
+            font-weight: 800;
+        }
+        }
+        .What{
+            width: 100%;
+            height: auto;
+            img{
+                max-width: 100%;
+            }
+            div{
+                width: 100px;
+                height: 30px;
+                color: rgb(214, 210, 210);
+                background-color: black;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                padding: 3px;
+            }
+        }
+    }
+}
+#TravelSection{
+    width: 100%;
+    min-height: 900px;
+    .addiction{
+        width: 100%;
+        height: auto;
+        .Lorem{
+            width: 100%;
+            min-height: 300px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           text-align: center;
+           
+            h1{
+                font-weight: 800;
+            }
+        }
+        .div{
+            width: 100%;
+            height: auto;
+            display: flex;
+            position: relative;
+            gap: 30px;
+            margin-top: 40px;
+            img{
+                height: 190px;
+                width: 40%;
+            }
+            .dd{
+                
+            }
+            .like{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
+    }
+}
+#sec-4{
+    width: 100%;
+    min-height: 900px;
+    background-color: white;
+    .week{
+        width: 100%;
+        height: auto;
+        .Lorem{
+            width: 100%;
+            min-height: 300px;
+           display: flex;
+           align-items: center;
+           justify-content: center;
+           text-align: center;
+           
+            h1{
+                font-weight: 800;
+            }
+        }
+        .What{
+            width: 100%;
+            height: auto;
+            img{
+                max-width: 100%;
+            }
+            .ss{
+                width: 100px;
+                height: 30px;
+                color: rgb(214, 210, 210);
+                background-color: black;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                padding: 3px;
+            }
+            
+        }
+    }
+}
+#sec-end{
+    .about {
+        text-align: center;
+    }
+    
+    .behaviour {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        margin-top: 35px;
+    }
+    
+    .walker {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    
+        .walkerImg {
+            margin-bottom: 20px;
+        }
+    
+    }
+}

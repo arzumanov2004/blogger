@@ -1,0 +1,168 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(239, 237, 237);
+}
+
+header {
+  background-color: white;
+  width: 100%;
+  height: auto;
+}
+
+#ThanEver {
+  width: 100%;
+  min-height: 600px;
+  background-image: url("https://preview.colorlib.com/theme/blogger/img/header-bg.jpg");
+}
+#ThanEver .Discount {
+  width: 100%;
+  min-height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#ThanEver .Discount .dis {
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  align-items: end;
+}
+#ThanEver .Discount .dis h1 {
+  font-size: 55px;
+  font-weight: 800;
+  color: white;
+}
+
+#sec-2 {
+  width: 100%;
+  min-height: 800px;
+  background-color: white;
+}
+#sec-2 .LatestNews {
+  width: 100%;
+  height: auto;
+}
+#sec-2 .LatestNews .Lorem {
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#sec-2 .LatestNews .Lorem h1 {
+  font-weight: 800;
+}
+#sec-2 .LatestNews .What {
+  width: 100%;
+  height: auto;
+}
+#sec-2 .LatestNews .What img {
+  max-width: 100%;
+}
+#sec-2 .LatestNews .What div {
+  width: 100px;
+  height: 30px;
+  color: rgb(214, 210, 210);
+  background-color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+
+#TravelSection {
+  width: 100%;
+  min-height: 900px;
+}
+#TravelSection .addiction {
+  width: 100%;
+  height: auto;
+}
+#TravelSection .addiction .Lorem {
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#TravelSection .addiction .Lorem h1 {
+  font-weight: 800;
+}
+#TravelSection .addiction .div {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  gap: 30px;
+  margin-top: 40px;
+}
+#TravelSection .addiction .div img {
+  height: 190px;
+  width: 40%;
+}
+#TravelSection .addiction .div .like {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#sec-4 {
+  width: 100%;
+  min-height: 900px;
+  background-color: white;
+}
+#sec-4 .week {
+  width: 100%;
+  height: auto;
+}
+#sec-4 .week .Lorem {
+  width: 100%;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#sec-4 .week .Lorem h1 {
+  font-weight: 800;
+}
+#sec-4 .week .What {
+  width: 100%;
+  height: auto;
+}
+#sec-4 .week .What img {
+  max-width: 100%;
+}
+#sec-4 .week .What .ss {
+  width: 100px;
+  height: 30px;
+  color: rgb(214, 210, 210);
+  background-color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3px;
+}
+
+#sec-end .about {
+  text-align: center;
+}
+#sec-end .behaviour {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 35px;
+}
+#sec-end .walker {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+#sec-end .walker .walkerImg {
+  margin-bottom: 20px;
+}
